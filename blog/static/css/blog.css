@@ -42,7 +42,15 @@ h1, h2, h3, h4 {
     margin-bottom: 70px;
 }
 
+.post-menu, .post-menu:hover, .post-menu:visited {
+    float: right;
+    margin-right: 10px;
+}
+
 .post h2 a, .post h2 a:visited {
     color: #000000;
 }
 
+.comment {
+    margin: 20px 0px 20px 20px;
+}
